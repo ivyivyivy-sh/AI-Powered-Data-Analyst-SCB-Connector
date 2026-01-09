@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+google-genai
+tabulate
+openpyxl
+requests
